@@ -87,6 +87,11 @@ class MainActivity : AppCompatActivity() {
 
         databaseHandler.insert(lancamento)
 
+        etValor.setText("")
+        etDataLancamento.setText("")
+        spTipo.setSelection(0)
+        spDetalhe.setSelection(0)
+
         Toast.makeText(this, "Sucesso!", Toast.LENGTH_SHORT).show()
     }
 

@@ -11,4 +11,6 @@
     <string name="erro_valor_zerado">O valor deve ser maior que zero!</string>
     <string name="erro_valor">O valor deve ser informado!</string>
     <string name="erro_data">A data deve ser informada!</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="_0_00">0.00</string>
 </resources>
