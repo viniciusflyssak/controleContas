@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">controleContas</string>
+    <string name="ver_lancamentos">Ver lançamentos</string>
+    <string name="lancar">Lançar</string>
+    <string name="saldo">Saldo</string>
+    <string name="data_lanc">Data Lanc.:</string>
+    <string name="valor">Valor:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="detalhe">Detalhe:</string>
+    <string name="textview">TextView</string>
+    <string name="erro_valor_zerado">O valor deve ser maior que zero!</string>
+    <string name="erro_valor">O valor deve ser informado!</string>
+    <string name="erro_data">A data deve ser informada!</string>
+</resources>
